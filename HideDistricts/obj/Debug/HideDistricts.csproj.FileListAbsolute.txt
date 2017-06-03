@@ -1,0 +1,13 @@
+C:\Users\Simon\Documents\Visual Studio 2013\Projects\HideDistricts\HideDistricts\bin\Debug\HideDistricts.dll
+C:\Users\Simon\Documents\Visual Studio 2013\Projects\HideDistricts\HideDistricts\bin\Debug\HideDistricts.pdb
+C:\Users\Simon\Documents\Visual Studio 2013\Projects\HideDistricts\HideDistricts\bin\Debug\Assembly-CSharp-firstpass.dll
+C:\Users\Simon\Documents\Visual Studio 2013\Projects\HideDistricts\HideDistricts\bin\Debug\Assembly-CSharp.dll
+C:\Users\Simon\Documents\Visual Studio 2013\Projects\HideDistricts\HideDistricts\bin\Debug\ColossalManaged.dll
+C:\Users\Simon\Documents\Visual Studio 2013\Projects\HideDistricts\HideDistricts\bin\Debug\ICities.dll
+C:\Users\Simon\Documents\Visual Studio 2013\Projects\HideDistricts\HideDistricts\bin\Debug\UnityEngine.dll
+C:\Users\Simon\Documents\Visual Studio 2013\Projects\HideDistricts\HideDistricts\bin\Debug\UnityEngine.UI.dll
+C:\Users\Simon\Documents\Visual Studio 2013\Projects\HideDistricts\HideDistricts\bin\Debug\ICSharpCode.SharpZipLib.dll
+C:\Users\Simon\Documents\Visual Studio 2013\Projects\HideDistricts\HideDistricts\obj\Debug\HideDistricts.csprojResolveAssemblyReference.cache
+C:\Users\Simon\Documents\Visual Studio 2013\Projects\HideDistricts\HideDistricts\obj\Debug\HideDistricts.dll
+C:\Users\Simon\Documents\Visual Studio 2013\Projects\HideDistricts\HideDistricts\obj\Debug\HideDistricts.pdb
+C:\Users\Simon\Documents\Visual Studio 2013\Projects\HideDistricts\HideDistricts\bin\Debug\PopsApiWrapper.dll
